@@ -19,5 +19,3 @@
 
 - Coding
 - English
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=n4n45h1.n4n45h1)
