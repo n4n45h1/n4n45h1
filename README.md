@@ -1,7 +1,6 @@
 # Hello, I'm Nanashi! 👋
 
 ## 🔧 My Skills
-![Japanese](
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
